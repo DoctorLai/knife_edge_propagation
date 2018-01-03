@@ -1,0 +1,37 @@
+{
+  "name": "knife_edge_propagation",
+  "version": "1.0.0",
+  "description": "Basic Knife Edge Propagation Engine based on http://www.mike-willis.com/Tutorial/PF7.htm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorLai/knife_edge_propagation.git"
+  },
+  "keywords": [
+    "knife",
+    "edge",
+    "propagation",
+    "wireless",
+    "propagation",
+    "diffraction",
+    "model"
+  ],
+  "author": "justyy <dr.zhihua.lai@gmail.com> (https://helloacm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoctorLai/knife_edge_propagation/issues"
+  },
+  "homepage": "https://github.com/DoctorLai/knife_edge_propagation#readme"
+}
