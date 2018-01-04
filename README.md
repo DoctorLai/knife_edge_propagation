@@ -54,7 +54,7 @@ You may also like [this tool: Free Space Path Loss Calculator with API](https://
 
 ## Author
 * © Released under the [MIT License](http://spdx.org/licenses/MIT.html).
-* Authored and maintained by [@justyy](https://steemit.com/@justyy) with help from contributors ([list](https://www.npmjs.com/package/wireless_pathloss/access)).
+* Authored and maintained by [@justyy](https://steemit.com/@justyy) with help from contributors ([list](https://www.npmjs.com/package/knife_edge_propagation/access)).
     * Email: dr.zhihua.lai@gmail.com
     * Github: [github.com/doctorlai](https://github.com/doctorlai)
     * Twitter: [doctorzlai](https://twitter.com/doctorzlai)
