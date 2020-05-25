@@ -1,6 +1,6 @@
 {
   "name": "knife_edge_propagation",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Basic Knife Edge Propagation Engine based on http://www.mike-willis.com/Tutorial/PF7.htm",
   "main": "index.js",
   "directories": {
